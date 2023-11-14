@@ -1,49 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T13:50:41.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.0" etag="e_3VFK7La_QtVZjFuKYE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:03:52.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NSXcvxmTmxT7coDV1B2_" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-0" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Жестовая разметка корпуса видео&lt;br&gt;(на основе разметки МУРКО)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="189" y="10" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-2" value="ситуация" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="217" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-10" value="кол-во участников" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="408" y="297" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="257" as="sourcePoint" />
+            <mxPoint x="487" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="257" as="sourcePoint" />
+            <mxPoint x="447" y="157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-15" value="пол говорящих" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="408" y="125" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-16" value="социальная ситуация" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="297" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-19" value="тип речевого действия" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="125" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="272" as="sourcePoint" />
+            <mxPoint x="227" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="217" as="sourcePoint" />
+            <mxPoint x="128" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-24" target="w4VaS5Bk1cCcIL_fdZWZ-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-24" value="участвует" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="382" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-26" value="актер" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="552" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-28" target="w4VaS5Bk1cCcIL_fdZWZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-28" value="играет" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="682" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-30" target="w4VaS5Bk1cCcIL_fdZWZ-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-30" value="персонаж" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="852" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-34" value="возраст" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="455" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="515" as="sourcePoint" />
+            <mxPoint x="363" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-37" value="пол" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="636" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-37" source="w4VaS5Bk1cCcIL_fdZWZ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="732" as="sourcePoint" />
+            <mxPoint x="363" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-39" value="возраст" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="757" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-39" source="w4VaS5Bk1cCcIL_fdZWZ-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="849" as="sourcePoint" />
+            <mxPoint x="368" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-41" value="пол" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="932" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-41" source="w4VaS5Bk1cCcIL_fdZWZ-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="909" as="sourcePoint" />
+            <mxPoint x="368" y="942" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-43" value="имя" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="547" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-45" target="w4VaS5Bk1cCcIL_fdZWZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-45" value="производит" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="408" y="542" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-47" target="w4VaS5Bk1cCcIL_fdZWZ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-47" value="жест" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="552" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-53" target="w4VaS5Bk1cCcIL_fdZWZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-53" target="w4VaS5Bk1cCcIL_fdZWZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-53" value="описывает" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="715" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-55" target="w4VaS5Bk1cCcIL_fdZWZ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-55" target="w4VaS5Bk1cCcIL_fdZWZ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-55" value="субъективная характеристика" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="957" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-57" value="объективная харктеристика" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="558" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-61" value="активный / основной орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="720" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-64" value="адаптор" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="800" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-65" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528" y="822" as="sourcePoint" />
+            <mxPoint x="578" y="772" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-66" value="пассивный орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="636" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-67" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-66" source="w4VaS5Bk1cCcIL_fdZWZ-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="605" as="sourcePoint" />
+            <mxPoint x="578" y="592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-68" value="кратность жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="553" y="602" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-70" value="направление движения" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484" y="856" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-66" target="w4VaS5Bk1cCcIL_fdZWZ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-73" value="ориентация ладони или кисти" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="622" y="856" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603" y="837" as="sourcePoint" />
+            <mxPoint x="653" y="787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-75" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="598" y="795" as="sourcePoint" />
+            <mxPoint x="558" y="862" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-77" value="тип / значение жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="952" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-79" value="название жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="1047" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-81" value="полнота жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="387" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-85" value="" style="endArrow=none;html=1;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="552" as="sourcePoint" />
+            <mxPoint x="653" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-86" value="аутентичность жеста" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="519.9999999999998" y="444" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-47" target="w4VaS5Bk1cCcIL_fdZWZ-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="763" y="617" as="sourcePoint" />
+            <mxPoint x="763" y="717" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="657" />
+              <mxPoint x="760" y="657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-89" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;язык_и разговора&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="408" y="212" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-91" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=none;noLabel=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="377" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-92" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=none;noLabel=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="403" y="537" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-93" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="447" as="sourcePoint" />
+            <mxPoint x="500" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-94" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;" connectable="0" vertex="1" parent="w4VaS5Bk1cCcIL_fdZWZ-93">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-95" value="Екатерина Козлова, БКЛ202" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="1130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-97" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-98" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="397" as="geometry">
+            <mxPoint x="-23" y="238" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-99" value="&lt;u&gt;ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353" y="444" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-100" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="620" as="sourcePoint" />
+            <mxPoint x="300" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-101" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="212" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-103" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="847" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="590" as="sourcePoint" />
+            <mxPoint x="84" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
