@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T14:21:04.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FYiOro5LyMFFsjZcVql7" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T15:55:33.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="c58egXMB-tjJTVuFUcw9" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1588" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-0" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Жестовая разметка корпуса видео&lt;br&gt;(на основе разметки МУРКО)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="189" y="10" width="450" height="80" as="geometry" />
+          <mxGeometry x="600" y="10" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -39,25 +39,22 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-16" value="социальная ситуация" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="297" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-19" value="тип речевого действия" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="3" y="125" width="130" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-2" target="w4VaS5Bk1cCcIL_fdZWZ-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="177" y="272" as="sourcePoint" />
             <mxPoint x="227" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-19" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="207" y="217" as="sourcePoint" />
-            <mxPoint x="128" y="249" as="targetPoint" />
+            <mxPoint x="113.87329697237635" y="184.79637674182504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-24" target="w4VaS5Bk1cCcIL_fdZWZ-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-24" value="участвует" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-24" value="участвует в" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="202" y="382" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-28" edge="1">
@@ -130,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-45" value="производит" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="408" y="542" width="130" height="80" as="geometry" />
+          <mxGeometry x="445" y="542" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-81" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -144,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-53" value="описывает" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="695" y="715" width="130" height="80" as="geometry" />
+          <mxGeometry x="695" y="744" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-55" target="w4VaS5Bk1cCcIL_fdZWZ-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,68 +149,68 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-55" target="w4VaS5Bk1cCcIL_fdZWZ-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-55" value="субъективная характеристика" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="957" width="120" height="60" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-55" value="субъективные характеристики" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-68" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-69" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-57" value="объективная харктеристика" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="558" y="725" width="120" height="60" as="geometry" />
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-57" value="объективные харктеристики" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="558" y="754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-61" value="активный / основной орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="327" y="720" width="130" height="70" as="geometry" />
+          <mxGeometry x="327" y="749" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-64" value="адаптор" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="373" y="800" width="130" height="70" as="geometry" />
+          <mxGeometry x="373" y="829" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-65" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="528" y="822" as="sourcePoint" />
-            <mxPoint x="578" y="772" as="targetPoint" />
+            <mxPoint x="528" y="851" as="sourcePoint" />
+            <mxPoint x="578" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-66" value="пассивный орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="373" y="636" width="130" height="70" as="geometry" />
+          <mxGeometry x="373" y="665" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-67" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="558" y="605" as="sourcePoint" />
-            <mxPoint x="578" y="592" as="targetPoint" />
+            <mxPoint x="558" y="634" as="sourcePoint" />
+            <mxPoint x="578" y="621" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-68" value="кратность жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="553" y="602" width="130" height="70" as="geometry" />
+          <mxGeometry x="492" y="629" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-70" value="направление движения" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="484" y="856" width="130" height="70" as="geometry" />
+          <mxGeometry x="484" y="885" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-66" target="w4VaS5Bk1cCcIL_fdZWZ-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-73" value="ориентация ладони или кисти" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="622" y="856" width="130" height="70" as="geometry" />
+          <mxGeometry x="622" y="885" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="603" y="837" as="sourcePoint" />
-            <mxPoint x="653" y="787" as="targetPoint" />
+            <mxPoint x="603" y="866" as="sourcePoint" />
+            <mxPoint x="653" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-75" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="598" y="795" as="sourcePoint" />
-            <mxPoint x="558" y="862" as="targetPoint" />
+            <mxPoint x="598" y="824" as="sourcePoint" />
+            <mxPoint x="558" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-77" value="тип / значение жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="952" width="130" height="70" as="geometry" />
+          <mxGeometry x="520" y="995" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-79" value="название жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="695" y="1047" width="130" height="70" as="geometry" />
+          <mxGeometry x="695" y="1090" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-81" value="полнота жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="695" y="340" width="130" height="70" as="geometry" />
@@ -227,26 +224,23 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-86" value="аутентичность жеста" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="552.9999999999998" y="482" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w4VaS5Bk1cCcIL_fdZWZ-53" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-22" target="w4VaS5Bk1cCcIL_fdZWZ-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.9999999999998" y="612" as="sourcePoint" />
-            <mxPoint x="763" y="717" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="657" />
-              <mxPoint x="760" y="657" />
-            </Array>
+            <mxPoint x="759.9999999999998" y="641" as="sourcePoint" />
+            <mxPoint x="763" y="746" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-89" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;язык_и разговора&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="408" y="212" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-92" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=none;noLabel=1;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="403" y="537" width="140" height="90" as="geometry" />
+          <mxGeometry x="440" y="537" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-95" value="Екатерина Козлова, БКЛ202" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="1130" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-99" value="&lt;u&gt;ID_актер&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-99" value="&lt;u&gt;ID (актер)&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="353" y="444" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-100" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-26" target="w4VaS5Bk1cCcIL_fdZWZ-99" edge="1">
@@ -255,10 +249,10 @@
             <mxPoint x="300" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-101" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;ID_ситуация&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-101" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;ID (ситуация)&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="212" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-103" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ID_персонаж&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-103" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ID (персонаж)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="847" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-3" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -283,10 +277,10 @@
           <mxGeometry x="730" y="612" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-11" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="927" width="30" height="30" as="geometry" />
+          <mxGeometry x="760" y="970" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-12" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="678" y="725" width="30" height="30" as="geometry" />
+          <mxGeometry x="678" y="754" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-13" value="" style="endArrow=none;html=1;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dfx5ZRGHvSyv2vt1D5LN-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -294,7 +288,7 @@
             <mxPoint x="661" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID_жест" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID (жест)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="613.9999999999998" y="410" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;пол говорящих&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -317,6 +311,594 @@
             <mxPoint x="707" y="452" as="sourcePoint" />
             <mxPoint x="647" y="452" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-112" value="тип речевого действия" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="125" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-114" value="ситуация" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="843" y="357" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-116" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-115">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-117" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (ситуация)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-115">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-119" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-118">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-120" value="социальная ситуация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-118">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-121" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-122" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-121">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-123" value="тип речевого действия" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-121">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-131" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-131">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-133" value="пол говорящих" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-131">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-128" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="150" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-129" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-128">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-130" value="язык_и разговора" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-128">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-114">
+          <mxGeometry y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-126" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-125">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-127" value="кол-во участников" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-125">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-134" value="актер" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1133" y="380" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-135" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-134">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-136" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-135">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-137" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-135">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-138" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-134">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-139" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-138">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-140" value="имя" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-138">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-141" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-134">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-142" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-141">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-143" value="пол" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-141">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-144" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-134">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-145" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-144">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-146" value="возраст" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-144">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-115" target="dfx5ZRGHvSyv2vt1D5LN-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1089" y="402" />
+              <mxPoint x="1089" y="594" />
+              <mxPoint x="979" y="594" />
+              <mxPoint x="979" y="688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-156" value="персонаж" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1133" y="109" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-157" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-156">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-158" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-157">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-159" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (персонаж)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-157">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-163" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-156">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-164" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-163">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-165" value="пол" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-163">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-166" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-156">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-167" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-166">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-168" value="возраст" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-166">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-147" target="dfx5ZRGHvSyv2vt1D5LN-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-173" value="жест" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1379" y="561" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-174" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-173">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-175" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-174">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-176" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (жест)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-174">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-177" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-173">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-178" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-177">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-179" value="аутентичность жеста" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-177">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-180" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-173">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-181" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-180">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-182" value="полнота жеста" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-180">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-190" value="объективные характеристики" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="869" y="789" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-215" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-216" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-215">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-217" value="ID (объективные характеристики)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-215">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-191" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-192" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-191">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-193" value="активный / основной орган" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-191">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-194" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-195" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-194">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-196" value="пассивный орган" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-194">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-197" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-198" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-197">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-199" value="адаптор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-197">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-209" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-210" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-209">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-211" value="направление движения" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-209">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-206" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="180" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-207" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-206">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-208" value="ориентация ладони / кисти" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-206">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-212" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="210" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-213" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-212">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-214" value="кратность жеста" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-212">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-200" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-190">
+          <mxGeometry y="240" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-201" value="FK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-200">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-202" value="описывают" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-200">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-218" value="ID (субъективные характеристики)" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="548" y="1083" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-219" value="ID (объективные характеристики)" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="628" y="629" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-220" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="dfx5ZRGHvSyv2vt1D5LN-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="764" as="sourcePoint" />
+            <mxPoint x="584" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-221" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-218" target="w4VaS5Bk1cCcIL_fdZWZ-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="623" y="774" as="sourcePoint" />
+            <mxPoint x="594" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-186" target="dfx5ZRGHvSyv2vt1D5LN-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-223" value="субъективные характеристики" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1353" y="909" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-224" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-223">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-225" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-224">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-226" value="ID (субъективные характеристики)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-224">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-227" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-223">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-228" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-227">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-229" value="тип / значение жеста" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-227">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-230" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-223">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-231" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-230">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-232" value="название жеста" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-230">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-245" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-223">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-246" value="FK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-245">
+          <mxGeometry width="59" height="30" as="geometry">
+            <mxRectangle width="59" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-247" value="описывают" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-245">
+          <mxGeometry x="59" width="221" height="30" as="geometry">
+            <mxRectangle width="221" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-245" target="dfx5ZRGHvSyv2vt1D5LN-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-263" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Нотация Чена&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="188" y="59" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-264" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Нотация Мартина&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1016" y="59" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-265" value="участвует в" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="999" y="613" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-266" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-265">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-267" value="FK1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-266">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-268" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-266">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-269" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-265">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-270" value="FK2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-269">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-271" value="ID (ситуация)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-269">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-266" target="dfx5ZRGHvSyv2vt1D5LN-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1249" y="658" />
+              <mxPoint x="1249" y="594" />
+              <mxPoint x="1109" y="594" />
+              <mxPoint x="1109" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-282" value="играет" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1133" y="264" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-283" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-282">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-284" value="FK1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-283">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-285" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-283">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-286" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-282">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-287" value="FK2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-286">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-288" value="ID (персонаж)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-286">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToOne;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-135" target="dfx5ZRGHvSyv2vt1D5LN-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-286" target="dfx5ZRGHvSyv2vt1D5LN-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-291" value="производит" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1399" y="406" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-292" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-291">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-293" value="FK1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-292">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-294" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-292">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-295" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-291">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-296" value="FK2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-295">
+          <mxGeometry width="49" height="30" as="geometry">
+            <mxRectangle width="49" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-297" value="ID (жест)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-295">
+          <mxGeometry x="49" width="171" height="30" as="geometry">
+            <mxRectangle width="171" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-135" target="dfx5ZRGHvSyv2vt1D5LN-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-295" target="dfx5ZRGHvSyv2vt1D5LN-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-300" value="производит" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1209" y="760" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-301" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-300">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-302" value="FK1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-301">
+          <mxGeometry width="64" height="30" as="geometry">
+            <mxRectangle width="64" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-303" value="ID (жест)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-301">
+          <mxGeometry x="64" width="226" height="30" as="geometry">
+            <mxRectangle width="226" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-307" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-300">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-308" value="FK2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-307">
+          <mxGeometry width="64" height="30" as="geometry">
+            <mxRectangle width="64" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-309" value="ID (объективные характеристики)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-307">
+          <mxGeometry x="64" width="226" height="30" as="geometry">
+            <mxRectangle width="226" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-304" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-300">
+          <mxGeometry y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-305" value="FK3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-304">
+          <mxGeometry width="64" height="30" as="geometry">
+            <mxRectangle width="64" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-306" value="ID (субъективные характеристики)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-304">
+          <mxGeometry x="64" width="226" height="30" as="geometry">
+            <mxRectangle width="226" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-307" target="dfx5ZRGHvSyv2vt1D5LN-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-304" target="dfx5ZRGHvSyv2vt1D5LN-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-174" target="dfx5ZRGHvSyv2vt1D5LN-301">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
