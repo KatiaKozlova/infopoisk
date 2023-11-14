@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T16:05:05.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KwBoVjv4H5iRR5ckgAgN" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T17:04:52.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2T0EFuYmxVh58it206oQ" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1134" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -288,7 +288,7 @@
             <mxPoint x="661" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID (жест)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID (жест_актер)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="613.9999999999998" y="410" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;пол говорящих&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -517,7 +517,7 @@
             <mxRectangle width="49" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-176" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (жест)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-174">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-176" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (жест_актер)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-174">
           <mxGeometry x="49" width="171" height="30" as="geometry">
             <mxRectangle width="171" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -870,7 +870,7 @@
             <mxRectangle width="64" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-303" value="ID (жест)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-301">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-303" value="ID (жест_актер)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" vertex="1" parent="dfx5ZRGHvSyv2vt1D5LN-301">
           <mxGeometry x="64" width="226" height="30" as="geometry">
             <mxRectangle width="226" height="30" as="alternateBounds" />
           </mxGeometry>
