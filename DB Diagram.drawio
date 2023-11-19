@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:36:47.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KtJTv_r3tEel86ohEjb6" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T09:59:11.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IGV7ijaTSOVi2S6MvRu2" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1444" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -121,7 +121,7 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-43" value="имя" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="547" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-45" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0;shape=link;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="699.9999999999998" y="582" as="targetPoint" />
           </mxGeometry>
@@ -159,13 +159,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-57" value="объективные харктеристики" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="558" y="754" width="120" height="60" as="geometry" />
+          <mxGeometry x="548" y="754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-61" value="активный / основной орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="327" y="749" width="130" height="70" as="geometry" />
+          <mxGeometry x="315" y="749" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-64" value="адаптор" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="373" y="829" width="130" height="70" as="geometry" />
+          <mxGeometry x="354" y="827" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-65" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-66" value="пассивный орган" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="373" y="665" width="130" height="70" as="geometry" />
+          <mxGeometry x="354" y="664" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-67" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,16 +183,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-68" value="кратность жеста" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="492" y="629" width="130" height="70" as="geometry" />
+          <mxGeometry x="482" y="629" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-70" value="направление движения" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="484" y="885" width="130" height="70" as="geometry" />
+          <mxGeometry x="482" y="870" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-66" target="w4VaS5Bk1cCcIL_fdZWZ-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-73" value="ориентация ладони или кисти" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="622" y="885" width="130" height="70" as="geometry" />
+          <mxGeometry x="620" y="870" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endFill=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="w4VaS5Bk1cCcIL_fdZWZ-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -224,7 +224,7 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-86" value="аутентичность жеста" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="552.9999999999998" y="482" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-22" target="w4VaS5Bk1cCcIL_fdZWZ-53" edge="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;shape=link;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dfx5ZRGHvSyv2vt1D5LN-22" target="w4VaS5Bk1cCcIL_fdZWZ-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="759.9999999999998" y="641" as="sourcePoint" />
             <mxPoint x="763" y="746" as="targetPoint" />
@@ -252,7 +252,7 @@
         <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-101" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;ID (ситуация)&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="212" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-103" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ID (персонаж)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w4VaS5Bk1cCcIL_fdZWZ-103" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ID (актер_персонаж)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3" y="847" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-3" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -288,7 +288,7 @@
             <mxPoint x="661" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID (жест)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-14" value="ID (актер_жест)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=15;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="613.9999999999998" y="410" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;пол говорящих&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;strokeColor=default;margin=100;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -472,7 +472,7 @@
             <mxRectangle width="49" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-159" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (персонаж)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-157" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-159" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер_персонаж)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-157" vertex="1">
           <mxGeometry x="49" width="171" height="30" as="geometry">
             <mxRectangle width="171" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -517,7 +517,7 @@
             <mxRectangle width="49" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-176" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (жест)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-174" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-176" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 15px; text-align: center;&quot;&gt;ID (актер_жест)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-174" vertex="1">
           <mxGeometry x="49" width="171" height="30" as="geometry">
             <mxRectangle width="171" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -646,7 +646,7 @@
           <mxGeometry x="548" y="1083" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-219" value="ID (объективные характеристики)" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=EB Garamond;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontStyle=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="628" y="629" width="130" height="70" as="geometry" />
+          <mxGeometry x="620" y="629" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-220" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;endArrow=none;endFill=0;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w4VaS5Bk1cCcIL_fdZWZ-57" target="dfx5ZRGHvSyv2vt1D5LN-219" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -777,7 +777,7 @@
             <mxRectangle width="49" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-288" value="ID (персонаж)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-286" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-288" value="ID (актер_персонаж)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-286" vertex="1">
           <mxGeometry x="49" width="171" height="30" as="geometry">
             <mxRectangle width="171" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -844,7 +844,7 @@
             <mxRectangle width="64" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-303" value="ID (жест)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-301" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-303" value="ID (актер_жест)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=15;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;" parent="dfx5ZRGHvSyv2vt1D5LN-301" vertex="1">
           <mxGeometry x="64" width="226" height="30" as="geometry">
             <mxRectangle width="226" height="30" as="alternateBounds" />
           </mxGeometry>
