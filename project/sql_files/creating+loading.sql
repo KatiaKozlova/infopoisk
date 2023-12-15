@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS project.tracks
 );
 
 -- Uploading table for tracks from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/tracks.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/tracks.csv'  -- You need to change the path...
 INTO TABLE project.tracks 
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS project.albums
 );
 
 -- Uploading table for albums from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/albums.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/albums.csv'  -- You need to change the path...
 INTO TABLE project.albums 
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -45,7 +45,7 @@ CREATE TABLE IF NOT EXISTS project.playlists
 );
 
 -- Uploading table for playlists from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/playlists.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/playlists.csv'  -- You need to change the path...
 INTO TABLE project.playlists 
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS project.track_characteristics
 );
 
 -- Uploading table for tracks' characteristics from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/track_characteristics.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/track_characteristics.csv'  -- You need to change the path...
 INTO TABLE project.track_characteristics 
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -86,7 +86,7 @@ CREATE TABLE IF NOT EXISTS project.track_to_album
 );
 
 -- Uploading table for track-to-album connection from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/track_to_album.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/track_to_album.csv'  -- You need to change the path...
 INTO TABLE project.track_to_album
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -102,7 +102,7 @@ CREATE TABLE IF NOT EXISTS project.track_to_playlist
 );
 
 -- Uploading table for track-to-playlist connection from local CSV
-LOAD DATA LOCAL INFILE 'C:/Users/User/Downloads/track_to_playlist.csv' 
+LOAD DATA LOCAL INFILE '[path_to_file]/track_to_playlist.csv'  -- You need to change the path...
 INTO TABLE project.track_to_playlist
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
