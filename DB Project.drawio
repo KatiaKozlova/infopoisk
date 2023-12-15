@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T19:11:48.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SNHZZsDs2L_eXXw-LIrS" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T20:03:22.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q_mG_Huh-XWkaNmTogU9" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2269" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -595,7 +595,7 @@
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERone;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-263" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Нотация Чена&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dfx5ZRGHvSyv2vt1D5LN-263" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Chan Notation&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="188" y="81" width="450" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dfx5ZRGHvSyv2vt1D5LN-264" value="&lt;h1 style=&quot;font-size: 29px;&quot;&gt;Martin Notation&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=EB Garamond;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DEB%2BGaramond;fontSize=29;align=center;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
