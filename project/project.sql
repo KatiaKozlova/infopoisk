@@ -218,5 +218,5 @@ CASE
     WHEN key_ = 11 THEN 'The key is B (si)'
     ELSE 'The key is unknown'
 END AS key_meaning
-FROM track_characteristics
-JOIN tracks ON tracks.track_id = track_characteristics.track_id;
+FROM project.track_characteristics
+JOIN project.tracks ON tracks.track_id = track_characteristics.track_id;
