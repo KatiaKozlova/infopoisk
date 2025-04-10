@@ -4,3 +4,6 @@
 [submodule "info-hw2"]
 	path = info-hw2
 	url = https://github.com/hse-courses-tokubetsu/hw2-KatiaKozlova.git
+[submodule "info-project"]
+	path = info-project
+	url = https://github.com/hse-courses-tokubetsu/project-KatiaKozlova.git
